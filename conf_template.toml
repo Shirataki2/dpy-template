@@ -1,7 +1,7 @@
 dev = true
 
 [bot]
-token="OTM4MTE4Mzc5MjA0NjczNjA2.Gg4FF_.-HkekC8BnAzxz3aq_Db9v2cWQkAjl1dOHwuKmE"
+token=""
 prefix="!"
 development_server_id=859327479352524820
 
